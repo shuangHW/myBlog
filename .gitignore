@@ -1,0 +1,12 @@
+/docs/.vitepress/cache/deps/
+/node_modules/
+.idea/misc.xml
+.idea/vcs.xml
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/workspace.xml
+.idea/contentModel.xml
+.idea/php.xml
+.idea/modules.xml
+.idea/codeStyles/
+.idea/libraries/
